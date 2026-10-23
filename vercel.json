@@ -3,12 +3,5 @@
   "framework": null,
   "buildCommand": "",
   "installCommand": "",
-  "outputDirectory": ".",
-  "redirects": [
-    {
-      "source": "/alternatif/:path*",
-      "destination": "/",
-      "permanent": true
-    }
-  ]
+  "outputDirectory": "."
 }
